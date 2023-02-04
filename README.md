@@ -1,7 +1,12 @@
 # My Profile
 
+Chiba university
 
+Reinforcement learning
 
-python hello.py
+Adversarial attack
 
-python hello2.py
+Evolutionary algorithm
+
+Robot simulation
+
