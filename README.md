@@ -1,6 +1,6 @@
 # My Profile
 
-Takaaki Azakami
+Hi! I'm Takaaki Azakami.
 
 ・Chiba university
 
