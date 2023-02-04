@@ -1,8 +1,8 @@
+# Welcom to my github !
+
 # My Profile
 
-Welcom to my github !
-
-Takaaki Azakami.
+Takaaki Azakami
 
 ・Chiba university
 
